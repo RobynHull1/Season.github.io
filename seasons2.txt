@@ -1,0 +1,101 @@
+<HTML>
+<font face="Algerian" color="blue" size="10"<sup></sup>I<sup>I</sup>I<sup>I</sup>I<sup>I</sup>I<sup>I</sup>I<sup>I</sup>I<sup>I</sup>I<sup>I</sup>I<sup>I</sup>I<sup>I</sup>I<sup>I</sup>I<sup>I</sup>I<sup>I</sup>I<sup>I</sup>I<sup>I</sup>I<sup>I</sup>I<sup>I</sup>I<sup>I</sup>I<sup>I</sup>I<sup>I</sup>I<sup>I</sup>I<sup>I</sup>I<sup>I</sup>I<sup>I</sup>I<sup>I</sup>I<sup>I</sup>I<sup>I</sup>I<sup>I</sup>I<sup>I</sup>I<sup>I</sup>I<sup>I</sup>I<sup>I</sup>I<sup>I</sup>I<sup>I</sup>I<sup>I</sup>I<sup>I</sup>I<sup>I</sup>I<sup>I</sup>I<sup>I</sup>I<sup>I</sup>I<sup>I</sup>I<sup>I</sup>I<sup>I</sup>I<sup>I</sup>I<sup>I</sup>I<sup>I</sup>I<sup>I</sup>I<sup>I</sup>I<sup>I</sup>I<sup>I</sup>I<sup>I</sup>I<sup>
+<HEAD><meta name="google-site-verification" content="AtDAX65wLuqo165JlkyzRIQsqK3-OGPkyPdq5ecu_RU" /><HEAD/>
+<TITLE> SEASONS </TITLE>
+<BODY bgcolor="pink">
+<hr>
+<h1><center> THE SEASONS </center></h1>
+<hr>
+<audio controls><source src="bensound-epic.mp3" type="audio/mpeg"></audio>
+<br>
+<font face=" Algerian" color="white" size ="2"<a href="https://www.bensound.com/royalty-free-music"> Get free audio from Bensound.com</a></font>
+<font face=" Centaur" color="red" size="10"><ol>
+<h4><b> There are four main seasons in the Northern and Southern Hemisphere: </b></h4>
+<li> Spring </li>
+<li> Summer </li>
+<li> Autumn </li>
+<li> Winter </li>
+<li><del> Holidays </del></li>
+</ol>
+</font>
+<br>
+<font face="Constantia" color="orange" size="10">
+<ol>
+<h4><b> The places on the Equator experience two major season: </b></h4>
+<li>Rainy Season</li>
+<li>Sunny Season </li>
+</ol>
+</font>
+<br>
+<h2><marquee><u>Spring </u></marquee></h2>
+<p><font face="Cambria" color="#8E44AD" size="10"> Spring begins in life</font><font face="Cambria" color="#F39C12" size="10">  March and ends</font><font face="Cambria" color="#1B4F72" size="10">  in June in the </font><font face="Cambria" color="#7DCEA0" size="10">Southern hemisphere and </font><font face="Cambria" color="#1E8449" size="10">on September to December.</font><font face="Cambria" color="#5499C7" size="10">  This time on the year</font><font face="Cambria" color="#F1C40F" size="10">  brings about a</font><font face="Cambria" color="#2471A3" size="10">  new beginning.</font>
+<font face="Cambria" color="#F9E79F" size="10"> Trees and flowers bloom,</font><font face="Cambria" color="#DC7633" size="10">  animals emerge from sleep</font><font face="Cambria" color="#1A5276" size="10"> and the earth is starting life again.</font></p>
+<center><img src="spring1.jpg" width="350" height="300">
+<img src="spring2.jpg" width="350" height="300">
+<img src="spring3.jpg" width="350" height="300"></center>
+<font face="Centaur" color="blue" size="20"> <a href="https://www.timeanddate.com/calendar/spring-equinox.html"> Spring Equinox </a></font>
+<br>
+<h2><marquee><u> Summer </u></marquee></h2>
+<p><font face="Century" color="#2471A3" size="10"> Summer is the<font><font face="Century" color="#5DADE2" size="10"> hottest season of the</font><font face="Century" color="#D4AC0D" size="10"> year. It sometimes creates</font><font face="Century" color="#F39C12" size="10"> droughts but it also </font><font face="Century" color="#2471A3" size="10">helps animals become active.</font>
+<center><img src="summer1.jpg" width="350" height="300">
+<img src="summer2.jpg" width="350" height="300">
+<img src="summer3.jpg" width="350" height="300"></center>
+<font face="Centaur" color="blue" size="20"> <a href="https://www.timeanddate.com/calendar/summer-solstice.html"> Summer Solstice </a></font>
+<br>
+<h2><marquee><u> Autumn </u></marquee></h2>
+<p><font face="Courier" color="#F1C40F" size="10"> Autumn is the time </font><font face="Courier" color="#F39C12" size="10">of pumpkins. It's</font><font face="Courier" color="#7B241C" size="10"> beautiful. Autumn lights just</font><font face="Courier" color="#1A5276" size="10"> seem so fairy tale like.</font><font face="Courier" color="#E74C3C" size="10"> Autumn is when the </font><font face="Courier" color="#D4AC0D" size="10">weather begins to get</font><font face="Courier" color="#B9770E" size="10"> cold and the leaves</font><font face="Courier" color="#F1C40F" size="10"> begin to fall.</font>
+<center><img src="autumn1.jpg" width="350" height="300">
+<img src="autumn2.jpg" width="350" height="300">
+<img src="autumn3.jpg" width="350" height="300"></center>
+<font face="Centaur" color="blue" size="20"> <a href="https://www.timeanddate.com/calendar/autumnal-equinox.html"> Autunm Equinox </a></font>
+<br>
+<h2><marquee><u>Winter </u></marquee></h2>
+<p><font face="Forte" color="#3498DB" size="10"> Winter is the end</font><font face="Forte" color="#2874A6" 2ize="10">  of all four seasons.</font><font face="Forte" color="#AED6F1" size="10">  It's when the animals </font><font face="Forte" color="#FDFEFE" size="10"> go into hiding because </font><font face="Forte" color="85C1E9" size="10"> the place is freezing.</font><font face="Forte" color="#2E86C1" size="10">  Whatever place of the</font><font face="Forte" color="#ECF0F1" size="10">  Earth that is tilted</font><font face="Forte" color="#85C1E9" 2ize="10">  away from the sun</font><font face="Forte" color="#3498DB" size="10">  will experience winter.</font>
+<center><img src="winter1.jpg" width="350" height="300">
+<img src="winter2.jpg" width="350" height="300">
+<img src="winter2.jpg" width="350" height="300"></center>
+</font>
+<font face="Centaur" color="blue" size="20"> <a href="https://www.timeanddate.com/calendar/winter-solstice.html"> Winter Solstice </a></font>
+<br>
+
+<h2><marquee><i> The Seasons </i></marquee></h2>
+<style>
+table, the, td {
+border: 1px solid black;
+}
+</style>
+<table>
+<caption> THE SEASONS </caption>
+<tr>
+<th> Seasons </th>
+<th>Northern Hemisphere </th>
+<th> Southern Hemisphere </th>
+</tr>
+<td> Spring </td>
+<td> March-June</td>
+<td> September-December </td>
+</tr>
+<tr>
+<td> Summer</td>
+<td> June-September</td>
+<td> December-March </td>
+</tr>
+<tr>
+<td> Autumn</td>
+<td> September-December</td>
+<td> March-June</td>
+<td> Winter</td>
+<td> December-March</td>
+<td> June-September </td>
+</tr>
+</table>
+</font>
+<br>
+<font face="Algerian" color="blue" size="10"<sup></sup>I<sup>I</sup>I<sup>I</sup>I<sup>I</sup>I<sup>I</sup>I<sup>I</sup>I<sup>I</sup>I<sup>I</sup>I<sup>I</sup>I<sup>I</sup>I<sup>I</sup>I<sup>I</sup>I<sup>I</sup>I<sup>I</sup>I<sup>I</sup>I<sup>I</sup>I<sup>I</sup>I<sup>I</sup>I<sup>I</sup>I<sup>I</sup>I<sup>I</sup>I<sup>I</sup>I<sup>I</sup>I<sup>I</sup>I<sup>I</sup>I<sup>I</sup>I<sup>I</sup>I<sup>I</sup>I<sup>I</sup>I<sup>I</sup>I<sup>I</sup>I<sup>I</sup>I<sup>I</sup>I<sup>I</sup>I<sup>I</sup>I<sup>I</sup>I<sup>I</sup>I<sup>I</sup>I<sup>I</sup>I<sup>I</sup>I<sup>I</sup>I<sup>I</sup>I<sup>I</sup>I<sup>I</sup>I<sup>I</sup>I<sup>I</sup>I<sup>I</sup>I<sup>I</sup>I<sup>I</sup>I<sup>I</sup>I<sup>I</sup>I<sup>
+<font face="Centaur" color="blue" size="20"> <a href="file:///C:/Users/User/Documents/notepad/Weather.html"> Weather </a></font>
+<br>
+<font face="Centaur" color="blue" size="20"> <a href="file:///C:/Users/User/Documents/notepad/natural%20disasters.html"> Natural Disasters </a></font>
+</body>
+</HTML>
+
+
